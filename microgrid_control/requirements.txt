@@ -1,0 +1,6 @@
+# microgrid_control/requirements.txt
+# This file lists the third-party libraries needed for the project.
+
+pymodbus
+flask
+influxdb-client
